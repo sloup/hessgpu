@@ -69,4 +69,4 @@ REFERENCES
 
 [2] Changchang Wu: SiftGPU - A GPU Implementation of Scale Invariant Feature
     Transform (SIFT). University of North Carolina at Chapel Hill, 2007.
-    http://www.cs.unc.edu/~ccwu/siftgpu/">http://www.cs.unc.edu/~ccwu/siftgpu/
+    http://www.cs.unc.edu/~ccwu/siftgpu/
