@@ -1,0 +1,1 @@
+..\bin\TestWinGlut.exe -i ..\data\blobs.png

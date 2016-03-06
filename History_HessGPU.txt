@@ -1,0 +1,4 @@
+
+20/02/2016
+	Released initial implementation of Hessian interest points
+        detector (HessGPU).

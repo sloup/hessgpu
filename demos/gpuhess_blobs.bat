@@ -1,0 +1,1 @@
+..\bin\hess.exe -i ..\data\blobs.png
